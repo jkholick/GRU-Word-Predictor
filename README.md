@@ -1,6 +1,6 @@
 # Word Prediction with GRU (Gated Recurrent Unit)
 
-A lightweight and efficient word prediction model built using a GRU (Gated Recurrent Unit) neural network in PyTorch. This project demonstrates how sequence modeling can be applied to generate the next word(s) in a sentence using deep learning.
+A lightweight and efficient word prediction model built using a GRU (Gated Recurrent Unit) neural network in Tensorflow. This project demonstrates how sequence modeling can be applied to generate the next word(s) in a sentence using deep learning.
 
 >  Designed for reproducibility, speed, and minimal setup using [`uv`](https://github.com/astral-sh/uv) for dependency management.
 
